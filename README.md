@@ -15,3 +15,4 @@ num_points - The number of points the post acquired, calculated as the total num
 num_comments - The number of comments that were made on the post<br>
 author - The username of the person who submitted the post<br>
 created_at - The date and time at which the post was submitted<br>
+You can find the analysis and conclusion in the file : <b>HackerNews_Post_Analysis.ipynb</b>
