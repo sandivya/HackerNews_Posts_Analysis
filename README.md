@@ -3,10 +3,10 @@ In this project, we'll work with a data set of submissions to popular technology
 We're specifically interested in posts whose titles begin with either Ask HN or Show HN. Users submit Ask HN posts to ask the Hacker News community a specific question.
 
 We'll compare these two types of posts to determine the following:<br>
-Do Ask HN or Show HN receive more comments on average?<br>
-Do posts created at a certain time receive more comments on average?
+- Do Ask HN or Show HN receive more comments on average?<br>
+- Do posts created at a certain time receive more comments on average?
 
-Some details about the data set 'hacker_news.csv' columns :<br> <br>
+Some details about the data set 'hacker_news.csv' columns :<br>
 
 id - The unique identifier from Hacker News for the post<br>
 title - The title of the post<br>
